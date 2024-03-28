@@ -1,0 +1,7 @@
+{
+	"token": "TOKEN",
+	"clientId": "CLIENT-ID",
+	"guildId": "GUILD-ID",
+	"ytCookie": "YOUTUBE-COOKIE",
+	"botChannel": "CHANNEL-NAME"
+}
