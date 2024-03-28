@@ -12,5 +12,5 @@ Play a song with **/play** *or* **/playnow**
 Skip songs with **/skip**
 
 There are lots of filters available with **/filters**
-![](Resources/Music Bot 5.PNG)
-![](Resources/Music Bot 6.PNG)
+![](/Resources/Music Bot 5.PNG)
+![](/Resources/Music Bot 6.PNG)
