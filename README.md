@@ -14,7 +14,7 @@ Play a song with **/play** *or* **/playnow**
 
 The bots status will appear playing the current song
 
-1[](/images/status.png)
+![](/images/status.png)
 
 Skip songs with **/skip**
 
