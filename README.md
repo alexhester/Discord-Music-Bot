@@ -23,4 +23,4 @@ There are lots of filters available with **/filters**
 ![](/images/filters1.png)
 ![](/images/filters2.png)
 
-Entering **/play** multiple times or with the link to a playlist, will queue multiple tracks.
+Entering **/play** multiple times *or* with the link to a playlist, will queue multiple tracks.
